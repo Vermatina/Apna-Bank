@@ -181,7 +181,7 @@ if(isset($_POST['submit']))
 <div class="row">
 <p class='col-md-4'style="font-size:12px">Tina Verma | @GRIP apr'24. <br> &copy 2022, <b>Tina Verma</b><br></p>
         <p class='col-md-8'style="text-align:right;font-size:12px"; >contact me :
-       <a href="https://github.com/TejKoli/Grip_The_Sparks_foundation"><img src="img/git.png" width='20px'></a> 
+       <a href="https://github.com/Vermatina/Apna-Bank.git"><img src="img/git.png" width='20px'></a> 
         <a href="https://www.linkedin.com/in/tina-verma-2bb537215"><img src="img/linkedin.png" width='20px'></a>
         <br/>apnabank@gmail.com</p>
       </div>
